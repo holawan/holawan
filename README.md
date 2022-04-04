@@ -1,6 +1,6 @@
 ### Welcome :smile:
 
-:man_student: I’m currently learning `R`, `Python`,`SQL`, `Data analysis`,`development`
+:man_student: I’m currently learning `R`, `Python`,`SQL`, `Data analysis`,`development`, `web`
 
 
 
