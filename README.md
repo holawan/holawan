@@ -7,7 +7,7 @@
 
 ​    
 
-## 💻 Tech Stacks 
+> 💻 Tech Stacks 
 
   :man_student: I’m currently learning `Data analysis`,`development`, `web`
 
@@ -19,10 +19,10 @@
 
 
 
+> :sunglasses: 
 
-## :sunglasses: 
 <a href = "https://github.com/holawan"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a> <a href = "https://velog.io/@holawan/"> <img alt="Velog" src ="https://img.shields.io/badge/Velog-green.svg?&style=for-the-badge"/></a><a href = "https://instagram.com/hola_wan"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</a> <a href = "https://velog.io/@holawan/"> <img alt="Velog" src ="https://img.shields.io/badge/velog-20c997??&style=for-the-badge"/></a><a href = "https://instagram.com/hola_wan"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <img alt="Gmail" src 
 ="https://img.shields.io/badge/asdf134652@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
