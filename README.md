@@ -3,11 +3,7 @@
 
 # Welcome :smile:
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fholawan%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
+<div align=center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fholawan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8BF95D&height=200&descAlign=50&fontAlign=50&section=header&text=DongwanKim&fontSize=65&fontColor=2E2E2E&animation=twinkling) 
 
