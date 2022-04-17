@@ -7,7 +7,7 @@
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=asdf134652@gmail.com" target="_blank"><img src="https://img.shields.io/badge/asdf134652@gmail.com-배경색?style=뱃지모양&logo=Gmail&logoColor=#EA4335"/></a>   <a href="https://www.instagram.com/hola_wan/" target="_blank"><img src="https://img.shields.io/badge/hola_wan-배경색?style=뱃지모양&logo=Instagram&logoColor=#E4405F"/></a>
 <a href="https://velog.io/@holawan">
 
-<img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Doputer's blog" />
+<img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white" alt="holawan blog" />
 
 </a>
 
