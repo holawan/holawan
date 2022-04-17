@@ -28,3 +28,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holawan&show_icons=true&theme=radical)
 
 <br/>
+
+![asdf134652's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=asdf134652)
+
