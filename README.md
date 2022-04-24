@@ -11,7 +11,7 @@
 
 ## 💻 Tech Stacks 
 
-  :man_student: I’m currently learning `development`, `web`, `Data analysis`, `ML`
+  :man_student: I’m currently learning  `Web`, `Data analysis`, `ML`,`Statics`
 
 <div align=center><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>  <img alt="R" src ="https://img.shields.io/badge/R-blue.svg?&style=for-the-badge&logo=R&logoColor=white"/> <img alt="SQL" src ="https://img.shields.io/badge/sql-007396.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/><br>
 
