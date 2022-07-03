@@ -22,17 +22,13 @@
 <a href = "https://github.com/holawan"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
     </a> <a href = "https://velog.io/@holawan/"> <img alt="Velog" src ="https://img.shields.io/badge/velog-20c997??&style=for-the-badge"/></a><a href = "https://instagram.com/hola_wan"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=asdf134652@gmail.com" target="_blank"><img alt="Gmail" src 
 ="https://img.shields.io/badge/asdf134652@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a></div>
-
 ## :running_man: Status
 
 <div align=center>
+
 ![asdf134652's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=asdf134652)
 
-</div>
-
 <br />
-
-<div align=center>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=holawan)](https://velog.io/@holawan) 
 
