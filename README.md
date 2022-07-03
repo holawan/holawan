@@ -26,10 +26,7 @@
 ## :running_man: Status
 
 <div align=center>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holawan&show_icons=true&theme=radical)
-
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=holawan)](https://velog.io/@holawan) 
 
 ![asdf134652's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=asdf134652)
 
