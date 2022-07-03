@@ -22,6 +22,8 @@
 <a href = "https://github.com/holawan"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
     </a> <a href = "https://velog.io/@holawan/"> <img alt="Velog" src ="https://img.shields.io/badge/velog-20c997??&style=for-the-badge"/></a><a href = "https://instagram.com/hola_wan"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=asdf134652@gmail.com" target="_blank"><img alt="Gmail" src 
 ="https://img.shields.io/badge/asdf134652@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a></div>
+
+
 ## :running_man: Status
 
 <div align=center>
