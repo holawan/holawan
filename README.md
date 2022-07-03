@@ -26,12 +26,14 @@
 ## :running_man: Status
 
 <div align=center>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=holawan)](https://velog.io/@holawan) 
-
 ![asdf134652's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=asdf134652)
 
 </div>
 
 <br />
 
+<div align=center>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=holawan)](https://velog.io/@holawan) 
+
+</div>
