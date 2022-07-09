@@ -27,8 +27,8 @@
 ## :running_man: Status
 
 <div align=center>
-
-![asdf134652's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=asdf134652)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf134652)](https://solved.ac/asdf134652)
 
 <br />
 
