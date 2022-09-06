@@ -27,10 +27,6 @@
 ## :running_man: Status
 
 <div align=center>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf134652)](https://solved.ac/asdf134652)
-
 <br />
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=holawan)](https://velog.io/@holawan) 
